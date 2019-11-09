@@ -75,6 +75,7 @@ nav {
 header nav a:link, header nav a:active, header nav a:hover, header nav a:visited {
     color: black;
     text-decoration: none;
+    font-size: 10pt;
 }
 
 img {
