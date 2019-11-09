@@ -102,14 +102,23 @@ img {
     padding-bottom: 20px;  
 }
 
+.top-content .text-container button {
+    background-color: transparent;
+    padding: 5px 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin: 15px 0px; 
+    font-size: 10pt;
+}
+
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
 }
 
-.middle-content h2 {
+.middle-content h2, .middle-content p, .middle-content button {
     padding: 0 2%;
-    margin-bottom: 0;
+    margin-bottom: 15px;
 }
 
 .middle-content .boxes {
